@@ -2,6 +2,8 @@
 A hackathon project
 
 ### Prerequisites
+Setup node, npm and react-native following this
+https://facebook.github.io/react-native/docs/getting-started.html#content
 
 ### How to run
 
