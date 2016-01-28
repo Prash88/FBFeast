@@ -5,8 +5,8 @@ A hackathon project
 Setup node, npm and react-native following this
 https://facebook.github.io/react-native/docs/getting-started.html#content
 
-nvm install node && nvm alias default node
-npm install -g react-native-cli
+1) nvm install node && nvm alias default node
+2) npm install -g react-native-cli
 
 ### How to run
 
